@@ -1,13 +1,20 @@
 {
   "name": "precursor-reset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "ignore": [
     ".gitignore",
-    ".gitattributes",
-    ".bower.json",
-    "bower.json"
+    ".gitattributes"
+  ],
+  "main": [
+    "reset.less",
+    "reset.css"
   ],
   "keywords": [
-    "precursor"
-  ]
+    "precursor",
+    "reset",
+    "normalise",
+    "normalize",
+    "fuel"
+  ],
+  "is_editable": true
 }
